@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula de introdução back end",
+  "main": "index.js", 
+  "type": "module",
+  "scripts": {
+    "Brazil": "node index.js Brazil",
+    "buscarPorLetraB": "node buscaLetra.js b",
+    "addPais": "node adicionaPais.js Brlandia BR",
+    "addNome": "node nomeIdade.js Luiz 36"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizpk/node-package-json-template.git"
+  },
+  "author": "Luiz Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizpk/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/luizpk/node-package-json-template#readme"
+}
