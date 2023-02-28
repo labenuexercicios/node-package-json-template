@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula-backend-barbosaC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js brazil",
+    "buscaPorLetra": "clear &&  node buscaPorLetra.js b",
+    "novoPais": "clear && node incluirPais Timor-Leste TL",
+    "novaIdade": "clear && node nomeIdade Camila 28"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilareimberg/node-package-json-template.git"
+  },
+  "author": "camila-reimberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilareimberg/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/camilareimberg/node-package-json-template#readme"
+}
