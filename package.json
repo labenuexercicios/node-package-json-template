@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula backend barbosaC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js brazil",
+    "buscaPorLetra": "node buscaPorLetra b",
+    "novoPais": "clear && node incluirPais.js Timor-Leste TL",
+    "nome-idade": "clear && node nome-idade.js Danilo 36"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilojosesilva/node-package-json-template.git"
+  },
+  "author": "danilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilojosesilva/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/danilojosesilva/node-package-json-template#readme"
+}
