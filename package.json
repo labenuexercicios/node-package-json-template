@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula backend barbosa c",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "brazil":"clear && node index.js brazil",
+    "buscaPorLetra":"clear && node buscaPorLetra.js b",
+    "novoPais":"clear && node incluirPais.js Timor-Leste TL",
+    "somaIdade":"clear && node somaIdade.js Isaias 38"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaiasdevs/node-package-json-template.git"
+  },
+  "author": "isaias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaiasdevs/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Isaiasdevs/node-package-json-template#readme"
+}
