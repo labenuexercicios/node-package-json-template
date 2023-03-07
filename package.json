@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula backend 1",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "brazil": " node index.js brazil ",
+    "buscaPorLetra": "clear && node buscaPorLetra.js b",
+    "novoPais": "clear && node incluirPais.js Tijuco TJ",
+    "exercicioIdade": "node exercicioIdade.js André 30"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azzindr/node-package-json-template.git"
+  },
+  "author": "azzindr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azzindr/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/azzindr/node-package-json-template#readme"
+}
