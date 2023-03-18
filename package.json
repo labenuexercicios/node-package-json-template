@@ -1,0 +1,29 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula de node e package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node ./index.js ",
+    "serve": "clear && echo 'HELO' && node ./index.js",
+    "pratica1": "clear && node ./pratica1.js Brazil",
+    "pratica2": "node ./pratica2.js b",
+    "pratica3": "node ./pratica3.js Izalandia IZ",
+    "exercicio": "node ./exercicio.js Iza 25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labenuexercicios/node-package-json-template.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "izabela lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labenuexercicios/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/labenuexercicios/node-package-json-template#readme"
+}
