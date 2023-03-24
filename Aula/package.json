@@ -1,0 +1,20 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "pratica1": "node ./pratica1.js",
+    "retornaBrasil": "clear && node ./pratica1.js Brazil",
+    "pratica2": "node ./pratica2.js b",
+    "retornaPaisLetraC": "node ./pratica2.js c",
+    "scriptQueChamaOutro": "npm run pratica1",
+    "pratica3": "node ./pratica3.js",
+    "fixacao": "node ./fixacao.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
