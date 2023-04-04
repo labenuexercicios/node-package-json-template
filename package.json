@@ -1,0 +1,25 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "vai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "buscaPorBr": "node index.js Brazil",
+    "buscaLetraB": "node index.js B",  
+    "addPais": "node add.js",
+    "nome": "node nome.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecjxx/node-package-json-template.git"
+  },
+  "author": "Leticia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecjxx/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/lecjxx/node-package-json-template#readme"
+}
